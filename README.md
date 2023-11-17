@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheDevCards
+- 👀 I’m interested in teaching people how to visualize everyday items with Tech 
+- 💞️ I’m looking to collaborate on integrating Design and Development into our everyday lives
